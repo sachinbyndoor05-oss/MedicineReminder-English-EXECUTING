@@ -1,0 +1,4 @@
+com\medreminder\App.class
+com\medreminder\App$Hash.class
+com\medreminder\App$Database.class
+com\medreminder\App$Json.class
